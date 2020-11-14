@@ -1,0 +1,6 @@
+Name: bin
+Main-Class: com.example.Example
+
+
+
+
